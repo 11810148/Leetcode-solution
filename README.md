@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/11810148/Leetcode-solution/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/11810148/Leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/11810148/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/11810148/Leetcode-solution/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/11810148/Leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/11810148/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/11810148/Leetcode-solution/tree/master/0506-relative-ranks) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/11810148/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/11810148/Leetcode-solution/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
