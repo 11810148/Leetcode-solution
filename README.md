@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/11810148/Leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/11810148/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/11810148/Leetcode-solution/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/11810148/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/11810148/Leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/11810148/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/11810148/Leetcode-solution/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/11810148/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/11810148/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/11810148/Leetcode-solution/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/11810148/Leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
