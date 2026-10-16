@@ -38,13 +38,8 @@ class MyQueue {
     }
     
     public boolean empty() {
-          if(out.isEmpty()){
-         while(!in.isEmpty()){
-            out.push(in.pop());
-         }
-
-      }
-       return out.isEmpty();
+       
+       return (in.isEmpty() && out.isEmpty());
     }
 }
 
